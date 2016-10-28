@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light"/>
+
+    <style name="foodRatingBar" parent="@android:style/Widget.RatingBar">
+
+        <item name ="android:progressDrawable">@drawable/ic_star</item>
+
+        <item name="android:minHeight">1088dip</item>
+
+        <item name="android:maxHeight">1088dip</item>
+
+    </style>
+
+</resources>

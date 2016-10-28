@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="add_favorite">Marque as Favorite</string>
+    <string name="filmes">Filmes</string>
+    <string name="ficcao">Ficção Científica</string>
+    <string name="acao">Ação</string>
+    <string name="fantasia">Fantasia</string>
+    <string name="comedia">Comédia</string>
+    <string name="terror">Terror</string>
+    <string name="aventura">Aventura</string>
+
+    <string-array name="tipos_movie">
+
+        <item>@string/filmes</item>
+        <item>@string/ficcao</item>
+        <item>@string/acao</item>
+        <item>@string/fantasia</item>
+        <item>@string/comedia</item>
+        <item>@string/terror</item>
+        <item>@string/aventura</item>
+
+    </string-array>
+    <string name="title_activity_descricao">DescricaoActivity</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/android_anim"
+    android:oneshot="true">
+    <item
+        android:drawable="@drawable/ic_logo_movie_gd"
+        android:duration="50" />
+</animation-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0051a1</color>
+    <color name="colorPrimaryDark">#05418c</color>
+    <color name="colorAccent">#a6c40d</color>
+
+    <color name="stf_azul">#0051a1</color>
+    <color name="stf_azul_escuro">#05418c</color>
+    <color name="branco">#ffffff</color>
+    <color name="Turquoise">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="DimGray">#696969</color>
+    <color name="Gray">#808080</color>
+    <color name="DarkGray">#A9A9A9</color>
+
+
+</resources>
