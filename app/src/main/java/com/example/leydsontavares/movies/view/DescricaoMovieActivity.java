@@ -1,4 +1,4 @@
-package com.example.leydsontavares.movies.view;
+﻿package com.example.leydsontavares.movies.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -71,7 +71,7 @@ public class DescricaoMovieActivity extends AppCompatActivity {
         setContentView(R.layout.activity_descricao_movie);
         ButterKnife.bind(this);
 
-
+AAAAAAAAA
 
         //Restaura as preferencias gravadas
         SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
